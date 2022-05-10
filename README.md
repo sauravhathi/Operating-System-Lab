@@ -1,2 +1,2 @@
-# operating-system-lab.github.io
+# operating-system-lab
 Operating System Lab
