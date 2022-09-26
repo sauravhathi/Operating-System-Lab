@@ -1,6 +1,9 @@
 # operating-system-lab
 Operating System Lab
 
+![image](https://user-images.githubusercontent.com/61316762/192310661-55ac8d64-9a29-485a-b947-f701e17123c5.png)
+
+
 [https://sauravhathi.github.io/operating-system-lab/](https://sauravhathi.github.io/operating-system-lab/)
 
 ## Process Scheduling Algorithms
